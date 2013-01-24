@@ -1,0 +1,9 @@
+## Interface: 50100
+
+## Title: tdJunkSeller
+## Author: ldz5
+## Version: 50100.01
+## SavedVariables: TDDB_TDJUNKSELLER
+## Dependencies: tdCore
+
+load.xml
